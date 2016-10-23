@@ -1,0 +1,17 @@
+{"class": "PASSENGER CAR",
+"complaintsCount": 232,
+"investigationsCount": 2,
+"make": "NISSAN",
+"manufacturer": "NISSAN NORTH AMERICA, INC.",
+"manufacturerCommunicationsCount": 15,
+"modelYear": 2014,
+"rated": true,
+"recallsCount": 6,
+"series": "FWD",
+"trim": "4 DR",
+"vehicleId": 1234,
+"vehicleModel": "ALTIMA",
+"vehiclePicture": "imagename.png",
+"nothing":"should not be",
+"safetyRatings":{"crashTestRatings":[{"mmy": "2014 Nissan Altima 4 DR FWD", "ncapVehicleId":8095, "nf":0}]}
+}
